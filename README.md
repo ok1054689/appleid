@@ -38,3 +38,5 @@
 也可以选择这边纯手工帮你代注册，注册时用你的邮箱手机号，不存在找回风险。
 
 微信号：sheng9sheng9
+
+![wxid.jpg](https://github.com/ok1054689/appleid/blob/main/wxid.jpg)
